@@ -1,6 +1,6 @@
 class HelloWorld {
     public static void main(String[]s) {
-        System.out.println("Hello World form Java!");
+        System.out.println("Hello World from Java!"";
         
     }
 }
